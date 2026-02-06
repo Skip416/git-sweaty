@@ -22137,7 +22137,7 @@
       }
     }
   },
-  "generated_at": "2026-02-06T21:15:57.754320+00:00",
+  "generated_at": "2026-02-06T21:26:06.428975+00:00",
   "type_meta": {
     "OtherSports": {
       "accent": "#f5c2ff",
@@ -22163,8 +22163,8 @@
     "OtherSports"
   ],
   "units": {
-    "distance": "mi",
-    "elevation": "ft"
+    "distance": "km",
+    "elevation": "m"
   },
   "years": [
     2020,
