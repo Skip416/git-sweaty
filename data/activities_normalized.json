@@ -15948,5 +15948,25 @@
     "start_date_local": "2026-03-17T16:36:22Z",
     "type": "OtherSports",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17765232796,
+    "moving_time": 1901.0,
+    "start_date_local": "2026-03-18T06:58:47Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 12004.1,
+    "elevation_gain": 0.0,
+    "id": 17766039928,
+    "moving_time": 3589.0,
+    "start_date_local": "2026-03-18T07:34:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
