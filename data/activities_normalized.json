@@ -17138,5 +17138,25 @@
     "start_date_local": "2026-07-11T11:49:10Z",
     "type": "OtherSports",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 10687.8,
+    "elevation_gain": 46.0,
+    "id": 19279603660,
+    "moving_time": 3516.0,
+    "start_date_local": "2026-07-12T06:10:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 1654.8,
+    "elevation_gain": 5.0,
+    "id": 19283771218,
+    "moving_time": 1911.0,
+    "start_date_local": "2026-07-12T11:31:20Z",
+    "type": "OtherSports",
+    "year": 2026
   }
 ]
