@@ -10475,6 +10475,12 @@
       "hour": 19,
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-08-13",
+      "hour": 7,
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24693,6 +24699,15 @@
           "distance": 5008.5,
           "elevation_gain": 6.0,
           "moving_time": 1931.0
+        },
+        "2026-08-13": {
+          "activity_ids": [
+            19724630701
+          ],
+          "count": 1,
+          "distance": 10037.3,
+          "elevation_gain": 20.0,
+          "moving_time": 2922.0
         }
       },
       "WeightTraining": {
@@ -24951,7 +24966,7 @@
       }
     }
   },
-  "generated_at": "2026-08-13T07:19:41.367110+00:00",
+  "generated_at": "2026-08-14T07:17:27.081043+00:00",
   "type_meta": {
     "OtherSports": {
       "accent": "#f5c2ff",
