@@ -25330,7 +25330,7 @@
             20405793897
           ],
           "count": 1,
-          "distance": 14159.1,
+          "distance": 14157.0,
           "elevation_gain": 21.0,
           "moving_time": 4861.0
         }
@@ -25602,7 +25602,7 @@
       }
     }
   },
-  "generated_at": "2026-10-01T12:19:24.256293+00:00",
+  "generated_at": "2026-10-02T11:47:40.351836+00:00",
   "type_meta": {
     "OtherSports": {
       "accent": "#f5c2ff",
