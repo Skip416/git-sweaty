@@ -10817,6 +10817,12 @@
       "hour": 15,
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 7,
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25467,6 +25473,15 @@
           "distance": 7140.5,
           "elevation_gain": 47.0,
           "moving_time": 1913.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            20566712548
+          ],
+          "count": 1,
+          "distance": 10014.7,
+          "elevation_gain": 58.0,
+          "moving_time": 3198.0
         }
       },
       "Swim": {
@@ -25736,7 +25751,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T14:16:22.345424+00:00",
+  "generated_at": "2026-10-13T13:26:12.202863+00:00",
   "type_meta": {
     "OtherSports": {
       "accent": "#f5c2ff",
